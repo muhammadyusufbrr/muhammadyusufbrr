@@ -1,50 +1,68 @@
-<h1 align="center">Salom 👋, men Muhammadyusuf G'ulomov</h1>
-<h3 align="center">Junior Front-End Developer | Andijon, O'zbekiston</h3>
+<h1 align="center">
+  <span style="display: inline-block; animation: bounce 1s infinite;">
+    👋
+  </span> Salom, men Muhammadyusuf G'ulomov!
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyusufbrr&label=Profil%20ko'rishlar%20soni&color=0e75b6&style=flat" alt="Profil ko'rishlar soni" /> </p>
+<h3 align="center">Junior Front-End Developer | Texnologiyaga oshno!</h3>
 
-## 💻 Portfolio
-- **[E-COMMERCE Platformasi](https://e-commerce-frontend-flame.vercel.app/):**  
-  ReactJS, SCSS, Redux Toolkit yordamida ishlab chiqilgan, mahsulotlarni filtrlash, dinamik savatcha, xavfsiz to'lov tizimiga ega eCommerce platformasi.
+<div align="center" style="animation: fade-in 2s;">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Animation">
+</div>
 
-- **[EXCLUSIVE Sayti](https://imtihon-javascript-wii6.vercel.app/):**  
-  HTML, Sass va JavaScript yordamida yaratilgan bosh sahifa dizayni va UI elementlari.
+---
 
-- **[NEST Landing Page](https://reactjs-1-oy-imtihon.vercel.app/):**  
-  Sass va ReactJS bilan yaratilgan professional landing page.
+## 💡 Haqimda qisqacha
+- 🌱 Hozirda **ReactJS** va **Redux** bo'yicha ko'nikmalarimni mustahkamlash bilan bandman.
+- 🎯 Maqsadim: **zamonaviy va innovatsion dasturlar yaratish**.
+- 📫 Men bilan bog'lanish: [Telegram](https://t.me/muhammadyusufdeveloper) | [Email](mailto:muhammadyusufwork1@gmail.com)
 
-## 👩‍💻 Texnik Ko'nikmalar
-- **Dasturlash tillari:** HTML, CSS, SCSS, JavaScript, TypeScript  
-- **Freymvorklar va kutubxonalar:** ReactJS, Redux, Redux Toolkit, Next.js, Bootstrap, Tailwind CSS, Material UI, Ant Design  
-- **Versiya nazorati:** Git, GitHub  
+---
 
-## 🧠 Soft Skills
-- Jamoada ishlash va muloqot qilish
-- Muammolarni hal qilish
-- O'rganishga qiziqish va sabr
-- Vaqtni boshqarish
+## ✨ Portfolio
+- 🌐 [E-COMMERCE Platformasi](https://e-commerce-frontend-flame.vercel.app/)
+- 🌐 [EXCLUSIVE Sayti](https://imtihon-javascript-wii6.vercel.app/)
+- 🌐 [NEST Landing Page](https://reactjs-1-oy-imtihon.vercel.app/)
 
-## 🏫 Ta'lim
-**Najot Ta'lim**  
-_Front-End Dasturlash bo'yicha kurs (01.12.2023 – 01.08.2024)_  
-- Reusable komponentlar yaratish  
-- Performans uchun optimallashtirish  
+---
 
-## 💼 Ish Tajribasi
-**Nova Code | Junior Front-End Developer (Intern)**  
-_October 2024 – Hozirgi vaqt_  
-- React.js orqali interaktiv UI yaratish.  
-- API'larni integratsiya qilish va real vaqt ma'lumotlarini ko'rsatish.  
-- Mobil moslashuvchanlik va cross-browser muvofiqlikni ta'minlash.  
-- Kod sifati uchun faol ishtirok.
+<div align="center" style="animation: rotate-scale 2s infinite;">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Creative Developer">
+</div>
 
-## 🌐 Bog'laning
-- **Telegram:** [muhammadyusufdeveloper](https://t.me/muhammadyusufdeveloper)  
-- **Email:** [muhammadyusufwork1@gmail.com](mailto:muhammadyusufwork1@gmail.com)  
-- **GitHub:** [Muhammadyusufdevloper](https://github.com/Muhammadyusufdevloper)
+---
 
-## 🌟 Statistikalar
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadyusufbrr&show_icons=true&locale=en&layout=compact" alt="Eng ko'p ishlatilgan tillar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyusufbrr&show_icons=true&locale=en" alt="Profil statistikasi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyusufbrr" alt="Kodlash chiziqlari" /></p>
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
 
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes rotate-scale {
+  0% {
+    transform: scale(1) rotate(0);
+  }
+  50% {
+    transform: scale(1.2) rotate(180deg);
+  }
+  100% {
+    transform: scale(1) rotate(360deg);
+  }
+}
+</style>
